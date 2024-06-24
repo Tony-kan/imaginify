@@ -1,4 +1,6 @@
-## <a name="introduction">🤖 Introduction [Imaginify]</a>
+ <h3 align="center">Imaginify : An AI SaaS Platform</h3>
+
+## <a name="introduction">🤖 Introduction</a>
 
 Imaginify : An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
